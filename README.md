@@ -10,12 +10,19 @@ smart contracts on the Ethereum network using the Solidity programming language.
 Please run npm install on the terminal to download the appropriate packages already defined to the package.json file. 
 Make sure you are in the source file. 
 
+
 ** Materials/References **
+
 Tailwind Setup - https://tailwindcss.com/docs/guides/create-react-app
+
 Tailwind Docs - https://tailwindcss.com/docs
+
 Rinkeby Faucet has been deprecated. You can use rinkeby.
+
 Etherscan - https://ropsten.etherscan.io
+
 Alchemy - https://alchemy.com
+
 
 
 ** The tools additionally **
