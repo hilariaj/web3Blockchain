@@ -28,3 +28,6 @@ Alchemy - https://alchemy.com
 ** The tools additionally **
 1. Hardhat (installation)
 2. Metamask.io (hooked up on the browser)
+
+**Launch your development career with project-based video**
+https://www.youtube.com/watch?v=Wn_Kb3MR_cU
